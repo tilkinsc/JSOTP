@@ -9,7 +9,7 @@ Compatible with Authy and Google Authenticator. Full support for QR code url is 
 
 ## Libraries Needed
 
-No external libraries are required to use any version of JOTP.
+No external libraries are required to use any version of JSOTP. However, only SHA1Hmac is included. SHA256 and SHA512 are very unsupported throughought everything.
 
 
 ## Configuration
